@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-💻✨ I'm currently working on the front end for my course recommendation system
-🎓🍁 Currently studying Computer Science at York University, Toronto
-🗼🎌 I also studied one semester at Waseda University in Tokyo
-🈶📚 Outside of programming languages, I'm currently learning Japanese too
-🎮🛡️ I love to play Teamfight Tactics, so maybe one day I will make a project about it
-🤔📐 Currently learning about dynamic programming
+💻✨ I'm currently working on the front end for my course recommendation system<br>
+🎓🍁 Currently studying Computer Science at York University, Toronto<br>
+🗼🎌 I also studied one semester at Waseda University in Tokyo<br>
+🈶📚 Outside of programming languages, I'm currently learning Japanese too<br>
+🎮🛡️ I love to play Teamfight Tactics, so maybe one day I will make a project about it<br>
+🤔📐 Currently learning about dynamic programming<br>
 
 
 # 💻 Tech Stack:
